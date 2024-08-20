@@ -1,8 +1,9 @@
-numpy==1.16.4
-scipy==1.2.2
-tensorflow-gpu==1.15.2
+numpy==1.21.6
+scipy==1.7.3
+tensorflow-gpu==1.15.0
 ipython
-opencv-python==4.1.1.26
-pyrender==0.1.33
-trimesh==3.5.15
-# chumpy==0.69
+opencv-python==4.10.0.84
+pyrender==0.1.45
+trimesh==4.4.1
+chumpy==0.70
+dlib==19.24.99

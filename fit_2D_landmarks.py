@@ -22,16 +22,13 @@ import sys
 import argparse
 import numpy as np
 import tensorflow as tf
-print("imported")
 from psbody.mesh import Mesh
 from psbody.mesh.meshviewer import MeshViewers
-print("imported")
 from utils.landmarks import load_embedding, tf_get_model_lmks, create_lmk_spheres, tf_project_points
 from utils.project_on_mesh import compute_texture_map
 
 from tf_smpl.batch_smpl import SMPL
 from tensorflow.contrib.opt import ScipyOptimizerInterface as scipy_pt
-print("imported")
 
 def str2bool(val):
     if isinstance(val, bool):
