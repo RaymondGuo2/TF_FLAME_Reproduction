@@ -1,8 +1,11 @@
 # FLAME: Articulated Expressive 3D Head Model (TF) Reproduction Repository
 
-This is an unofficial implementation of the [FLAME](https://flame.is.tue.mpg.de/) methodology for head model reconstruction by Li et al. (2017). It reproduces the [TF_FLAME](https://github.com/TimoBolkart/TF_FLAME?tab=readme-ov-file) repository on Timo Bolkart's GitHub, and thus all credit goes to him and his collaborators. The purpose of this reproduction is to explore the effectiveness of fitting FLAME topologies for head reconstruction, and to further simplify and improve the set-up explanation in the [original repository](https://github.com/TimoBolkart/TF_FLAME?tab=readme-ov-file).
-
-**FLAME** is a g
+This is an unofficial implementation of [**FLAME** (Faces Learned with an Articulated Model and Expressions)](https://flame.is.tue.mpg.de/), a 
+framework designed to model the variations in shape, pose, expression, and appearance in heads 
+proposed by Li et al. (2017). This repository reproduces the official TensorFlow implementation of [FLAME](https://github.com/TimoBolkart/TF_FLAME?
+tab=readme-ov-file), with the purpose of exploring the effectiveness of fitting FLAME topologies for head reconstruction
+and simplifying the ease of setting-up the FLAME model in the [original repository]
+(https://github.com/TimoBolkart/TF_FLAME?tab=readme-ov-file).
 
 
 
