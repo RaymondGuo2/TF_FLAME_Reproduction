@@ -1,0 +1,12 @@
+*/.DS_Store
+.vscode
+.idea
+*cache*
+/data*
+/test_images/*
+/test_results/*
+/models/*
+!/models/download and put here
+/archive/*
+/debug_data
+/debug*
