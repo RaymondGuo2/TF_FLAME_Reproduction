@@ -1,3 +1,5 @@
+# Code directly taken from the original tensorflow repository for FLAME (Li et al. (2017)), which can be found here: https://github.com/TimoBolkart/TF_FLAME?tab=readme-ov-file
+
 import numpy as np
 from utils.landmarks import tf_project_points
 
